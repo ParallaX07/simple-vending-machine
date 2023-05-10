@@ -21,7 +21,7 @@ This C program simulates a virtual vending machine where users can buy products 
 
 ## Files
 
-- `main.c`: The main source code of the virtual vending machine program.
+- `Shop.c`: The main source code of the virtual vending machine program.
 - `inventory.txt`: The file containing the vending machine's inventory, with each product's name, price, weight, and quantity.
 - `sales.txt`: The file containing the total sales data, which is updated after each transaction.
 
